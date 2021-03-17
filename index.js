@@ -1,1 +1,1 @@
-document.querySelector(header)
+let header = document.querySelector(header)
